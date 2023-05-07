@@ -1,8 +1,16 @@
 /* code here  */
-.redColor{
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
 
+.redColor{
+  color: red;
+  font-size: 30px;
 }
 
 .blueColor{
-
+   color: blue;
+  font-size: 30px;
+  font-style: italic;
 }
